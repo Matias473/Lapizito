@@ -1,0 +1,10 @@
+Nombre: Lapizito
+
+Problema:
+Muchos estudiantes pierden el control de sus tareas, exámenes y proyectos por tenerlos repartidos en varias plataformas, lo que genera entregas tardías y estrés.
+
+Objetivo:
+Crear una aplicación móvil que ayude a los estudiantes a planear sus actividades escolares con calendario, recordatorios y notificaciones, sincronizada con Google Classroom.
+
+Descripción:
+Lapizito es una app de organización académica que concentra las actividades escolares en un solo lugar, avisa de fechas importantes y se conecta con Google Classroom para consultar tareas sin captura manual.
